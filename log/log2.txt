@@ -1,0 +1,22 @@
+object(stdClass)#523 (1) {
+  ["errors"]=>
+  array(1) {
+    [0]=>
+    object(stdClass)#522 (2) {
+      ["code"]=>
+      int(187)
+      ["message"]=>
+      string(22) "Status is a duplicate."
+    }
+  }
+}
+array(1) {
+  [0]=>
+  object(stdClass)#522 (2) {
+    ["code"]=>
+    int(187)
+    ["message"]=>
+    string(22) "Status is a duplicate."
+  }
+}
+int(52)
